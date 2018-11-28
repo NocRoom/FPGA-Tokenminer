@@ -1,2 +1,2 @@
-.\tokenminer.exe -G -P --opencl-platform 0
+.\tokenminer.exe -C -P --opencl-platform 0
 pause
